@@ -8,30 +8,6 @@ It includes features such as user authentication (sign up, sign in) with
 Google OAuth, JWT authentication, profile updates, and property listing management.
 
 
-## Installation
-
-1. Clone the repository
-
-```bash
-  git clone git@github.com:anuraaagz/mern-estate.git
-```
-2. Go to the project directory and install dependencies for both the client and server
-```bash
-  npm install
-```
-```bash
-  cd client
-  npm install
-```
-3. Start the server
-```bash
-  npm run dev
-```
-4. Start the client
-```bash
-  cd client
-  npm run dev
-``` 
 ## Features
 
 - **User Authentication:**
